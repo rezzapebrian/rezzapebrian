@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there ! i'm Rezza Pebrian  👋
+![rezzapebrian](img/Rezza%20Pebrian.jpg)
 <!--
 **rezzapebrian/rezzapebrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on RSUD Kota Depok
+🌱 I’m currently learning Javascript
