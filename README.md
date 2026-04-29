@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ##### 👨 Social 🔝
 
-![https://instagram.com/rezzapebrian](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/rezzapebrian/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/rezza-pebrian-09b7b91b7](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![https://github.com/rezzapebrian](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
